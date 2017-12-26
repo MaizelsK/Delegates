@@ -40,7 +40,7 @@ namespace DelegateLesson
             //forexStock.Add(item, price);
             if (forexStock.ContainsKey(item))
             {
-                person.Money += forexStock[item];
+                //person.Money += forexStock[item];
 
                 operationsHandler.Invoke(person, forexStock[item]);
             }

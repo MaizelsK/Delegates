@@ -4,3 +4,10 @@ C:\Users\МайзельсК\Documents\Visual Studio 2017\Projects\DelegateLesson
 C:\Users\МайзельсК\Documents\Visual Studio 2017\Projects\DelegateLesson\DelegateLesson\obj\Debug\DelegateLesson.csprojResolveAssemblyReference.cache
 C:\Users\МайзельсК\Documents\Visual Studio 2017\Projects\DelegateLesson\DelegateLesson\obj\Debug\DelegateLesson.exe
 C:\Users\МайзельсК\Documents\Visual Studio 2017\Projects\DelegateLesson\DelegateLesson\obj\Debug\DelegateLesson.pdb
+C:\Users\MAIZELS\source\repos\Delegates\DelegateLesson\obj\Debug\DelegateLesson.csprojResolveAssemblyReference.cache
+C:\Users\MAIZELS\source\repos\Delegates\DelegateLesson\obj\Debug\DelegateLesson.csproj.CoreCompileInputs.cache
+C:\Users\MAIZELS\source\repos\Delegates\DelegateLesson\obj\Debug\DelegateLesson.exe
+C:\Users\MAIZELS\source\repos\Delegates\DelegateLesson\obj\Debug\DelegateLesson.pdb
+C:\Users\MAIZELS\source\repos\Delegates\DelegateLesson\bin\Debug\DelegateLesson.exe.config
+C:\Users\MAIZELS\source\repos\Delegates\DelegateLesson\bin\Debug\DelegateLesson.exe
+C:\Users\MAIZELS\source\repos\Delegates\DelegateLesson\bin\Debug\DelegateLesson.pdb

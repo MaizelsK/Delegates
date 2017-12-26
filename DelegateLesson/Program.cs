@@ -10,17 +10,30 @@ namespace DelegateLesson
     {
         static void Main(string[] args)
         {
+            // Classwork
+
             /*BankAccount account = new BankAccount();
             account.Add(100);
             account.RegisterHadler(new AccountOperationsHandler(PrintMessage));
 
-            account.Add(200);*/
+            account.Add(200);
 
             Forex forex = new Forex();
 
             Person person1 = new Person("Kirill", 20);
 
-            forex.BuyItem(person1, "Sofa");
+            forex.BuyItem(person1, "Sofa");*/
+
+            // Homework
+
+            Game game = new Game();
+
+            game.Start();
+        }
+
+        static public void PrintMessage(string message)
+        {
+            Console.WriteLine(message);
         }
     }
 }
